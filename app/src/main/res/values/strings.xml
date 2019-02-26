@@ -1,0 +1,161 @@
+<resources>
+    <string name="app_name">user</string>
+    <string name="main">个人资料</string>
+
+    <string-array name="day31">
+        <item>1日</item>
+        <item>2日</item>
+        <item>3日</item>
+        <item>4日</item>
+        <item>5日</item>
+        <item>6日</item>
+        <item>7日</item>
+        <item>8日</item>
+        <item>9日</item>
+        <item>10日</item>
+        <item>11日</item>
+        <item>12日</item>
+        <item>13日</item>
+        <item>14日</item>
+        <item>15日</item>
+        <item>16日</item>
+        <item>17日</item>
+        <item>18日</item>
+        <item>19日</item>
+        <item>20日</item>
+        <item>21日</item>
+        <item>22日</item>
+        <item>23日</item>
+        <item>24日</item>
+        <item>25日</item>
+        <item>26日</item>
+        <item>27日</item>
+        <item>28日</item>
+        <item>29日</item>
+        <item>30日</item>
+        <item>31日</item>
+    </string-array>
+    <string-array name="day28">
+        <item>1日</item>
+        <item>2日</item>
+        <item>3日</item>
+        <item>4日</item>
+        <item>5日</item>
+        <item>6日</item>
+        <item>7日</item>
+        <item>8日</item>
+        <item>9日</item>
+        <item>10日</item>
+        <item>11日</item>
+        <item>12日</item>
+        <item>13日</item>
+        <item>14日</item>
+        <item>15日</item>
+        <item>16日</item>
+        <item>17日</item>
+        <item>18日</item>
+        <item>19日</item>
+        <item>20日</item>
+        <item>21日</item>
+        <item>22日</item>
+        <item>23日</item>
+        <item>24日</item>
+        <item>25日</item>
+        <item>26日</item>
+        <item>27日</item>
+        <item>28日</item>
+    </string-array>
+    <string-array name="day30">
+        <item>1日</item>
+        <item>2日</item>
+        <item>3日</item>
+        <item>4日</item>
+        <item>5日</item>
+        <item>6日</item>
+        <item>7日</item>
+        <item>8日</item>
+        <item>9日</item>
+        <item>10日</item>
+        <item>11日</item>
+        <item>12日</item>
+        <item>13日</item>
+        <item>14日</item>
+        <item>15日</item>
+        <item>16日</item>
+        <item>17日</item>
+        <item>18日</item>
+        <item>19日</item>
+        <item>20日</item>
+        <item>21日</item>
+        <item>22日</item>
+        <item>23日</item>
+        <item>24日</item>
+        <item>25日</item>
+        <item>26日</item>
+        <item>27日</item>
+        <item>28日</item>
+        <item>29日</item>
+        <item>30日</item>
+    </string-array>
+    <string-array name="sex">
+        <item>男</item>
+        <item>女</item>
+        <item>男</item>
+        <item>女</item>
+        <item>男</item>
+        <item>女</item>
+        <item>男</item>
+        <item>女</item>
+        <item>男</item>
+        <item>女</item>
+        <item>男</item>
+        <item>女</item>
+    </string-array>
+    <string-array name="shi">
+        <item>北京市</item>
+        <item>天津市</item>
+        <item>上海</item>
+        <item>重庆</item>
+    </string-array>
+    <string-array name="xianbei">
+        <item>杭州市</item>
+        <item>嘉兴市</item>
+        <item>湖州市</item>
+        <item>绍兴市</item>
+        <item>宁波市</item>
+        <item>台州市</item>
+        <item>温州市</item>
+        <item>金华市</item>
+        <item>衢州市</item>
+        <item>丽水市</item>
+        <item>舟山市</item>
+    </string-array>
+    <string-array name="xiantian">
+        <item>宁海县</item>
+        <item>象山县</item>
+        <item>温州</item>
+        <item>乐清</item>
+        <item>洞头</item>
+        <item>永嘉</item>
+        <item>平阳</item>
+    </string-array>
+    <string-array name="xianshang">
+        <item>湖州</item>
+        <item>嘉兴</item>
+        <item>金华</item>
+        <item>衢州</item>
+        <item>台州</item>
+        <item>丽水</item>
+        <item>舟山</item>
+    </string-array>
+    <string-array name="xianchong">
+        <item>椒江</item>
+        <item>青田</item>
+        <item>遂昌</item>
+        <item>云和</item>
+        <item>庆元</item>
+        <item>景宁</item>
+        <item>松阳七县</item>
+    </string-array>
+
+</resources>
